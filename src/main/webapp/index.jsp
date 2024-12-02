@@ -25,7 +25,7 @@
     <p>this is sample page for deploying in tomcat server</p>
     <p>yusufa</p>
     <p>shb</p>
-    <p>zunnu</p>
+    <p>zunnurain</p>
     <p>rahmath</p>
     <p>rafi</p>
     <p>khan</p>
